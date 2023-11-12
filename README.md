@@ -10,17 +10,19 @@ Seasoned IT professional with over 12 years of experience in the transportation 
 - Developed a machine learning model to predict the performance of college baseball pitchers based on historical data from 2015 to 2023.  
 - The model achieved a high level of accuracy, with a Mean Squared Error (MSE) of 0.0278, R-squared of 0.9538, and Mean Absolute Error (MAE) of 0.1279.  
 - The model was used to identify key factors that contribute to a successful pitcher, such as strikeout-to-walk ratio and WHIP (Walks plus Hits per Inning Pitched).
-  [College Baseball Project](https://strike-analytics-fleet.github.io/college_baseball_project/)  
+  [PROJECT LINK](https://strike-analytics-fleet.github.io/college_baseball_project/)  
   
 ### Analyzing Divorce Rates in the United States  
 - Conducted an analysis of divorce rates in the United States using data from 2015 to 2023.  
 - Found that divorce rates have been declining in recent years, but that they remain high in certain regions of the country, such as the South and Midwest.  
-- Identified several factors that contribute to divorce, such as financial stress, infidelity, and lack of communication.  
+- Identified several factors that contribute to divorce, such as financial stress, infidelity, and lack of communication.
+  [PROJECT LINK](https://github.com/Strike-Analytics-Fleet/DivorceRates)
   
 ### Predicting the 2024 Presidential Election Outcome Using Deep Learning  
 - Developed a deep learning model to predict the winner of the 2024 U.S. presidential election based on candidate data and historical election results.  
 - The model achieved an accuracy of 85% on a holdout test set.  
-- Visualized the election predictions and key insights using data visualization techniques.  
+- Visualized the election predictions and key insights using data visualization techniques.
+  [PROJECT LINK](https://github.com/Strike-Analytics-Fleet/ElectionPrediction)
 
 ## Experience  
   
