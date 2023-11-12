@@ -1,1 +1,87 @@
-# portfolio
+# Mark Fleet Portfolio
+  
+## Summary  
+  
+Seasoned IT professional with over 12 years of experience in the transportation industry, specializing in data analytics, AI/ML solutioning, and project leadership. Proven track record of delivering innovative solutions to complex business problems and leading teams to success. Expertise in Microsoft Power Platform, SAS Viya, Azure, TSS-Mainframe, PATS & QT Timekeeping, TSS Express, Teradata Query/SQL, Databricks, Python, and R.  
+  
+## Experience  
+  
+### Senior IT Business Consultant, Strike Analytics | BNSF Railway | Kansas City Metropolitan Area | March 2022 - Present  
+- Support the company's fast analytic requests and provide deep solutioning to data.  
+- Work closely with all business groups to identify needs where analytics could play a role.  
+  
+### Senior Manager Workforce Support | BNSF Railway | Topeka, Kansas, United States | June 2018 - March 2022  
+- Managed a team of IT professionals responsible for providing support to the company's workforce systems.  
+- Led the implementation of several major projects, including a new timekeeping system and a new HRIS.  
+  
+### Manager Workforce Systems Support | BNSF Railway | Fort Worth, Texas, United States | May 2016 - June 2018  
+- Managed a team of IT professionals responsible for providing support to the company's workforce systems.  
+- Led the implementation of several major projects, including a new timekeeping system and a new HRIS.  
+  
+### Manager Corridor Operarions - System | BNSF Railway | Fort Worth, Texas, United States | March 2016 - May 2016  
+- Managed the company's corridor operations, including the movement of trains and the maintenance of track and infrastructure.  
+  
+### Manager Service Excellence - Technology Services | BNSF Railway | Fort Worth, Texas, United States | October 2015 - March 2016  
+- Managed the company's technology services, including the development and implementation of new technologies.  
+  
+### Terminal Trainmaster | BNSF Railway | Haslet, Texas, United States | March 2015 - October 2015  
+- Managed the company's terminal operations, including the loading and unloading of trains and the maintenance of track and infrastructure.  
+  
+### NOC TrainMaster - Minot ND Crude Oil Ops | BNSF Railway | Fort Worth, Texas, United States | June 2014 - March 2015  
+- Managed the company's crude oil operations in Minot, North Dakota.  
+  
+### Manager Cooridor Operations - NOC | BNSF Railway | Fort Worth, Texas, United States | January 2013 - June 2014  
+- Managed the company's corridor operations, including the movement of trains and the maintenance of track and infrastructure.  
+  
+### Frieght Conductor | BNSF Railway | Aberdeen, South Dakota, United States | October 2011 - January 2013  
+- Operated trains and conducted safety inspections.  
+  
+## Education  
+  
+### Master of Science in Data Science | Bellevue University | Bellevue, Nebraska | 2022 - September 2023 (Expected)  
+  
+### Bachelor of Science in Project Management | Bellevue University | Bellevue, Nebraska | August 2020 - March 2022  
+- GPA: 3.98  
+- Activities and Societies: Summa Cum Laude  
+  
+### Associate of Arts in Information Technology | Tarrant County College | Fort Worth, Texas, United States | 2017 - 2020  
+- GPA: 4.0  
+  
+## Awards and Recognition  
+- Summa Cum Laude for BS  
+- 4.0 GPA for Associates  
+- 3.5 GPA for Masters  
+- 2013 Employee of the Year at BNSF  
+  
+## Skills  
+- Data Analytics  
+- AI/ML Solutioning  
+- Data Science  
+- Project Leadership  
+- Operations Field Management  
+- Transportation Systems  
+- Modernized System Development
+- Leadership Mentor  
+- Change Management  
+  
+## Technical Expertise  
+- Microsoft Power Platform  
+- SAS Viya  
+- Azure  
+- TSS-Mainframe  
+- PATS & QT Timekeeping  
+- TSS Express  
+- Teradata Query/SQL  
+- Databricks  
+- Python, R  
+  
+## Volunteer Experience  
+- Student Volunteer | City of Shawnee, KS | January 2022 - Present  
+- JA -Junior Achievement | Coach, Leader | Greenfield Elem. Students | 2017 & 2018  
+- Technology Awareness Day | 2023  
+- Participant of Microsoft Co-Pilot, OpenAI , Azure Cognitive Services Beta testing/POC Pilot | 2023  
+  
+## Professional Development  
+- Introduction to Project Management | Twentyeighty Strategy Execution, BNSF Railway TOB  
+- Managing IT Projects | Twentyeighty Strategy Execution, BNSF Railway TOB  
+
