@@ -2,8 +2,25 @@
   
 ## Summary  
   
-Seasoned IT professional with over 12 years of experience in the transportation industry, specializing in data analytics, AI/ML solutioning, and project leadership. Proven track record of delivering innovative solutions to complex business problems and leading teams to success. Expertise in Microsoft Power Platform, SAS Viya, Azure, TSS-Mainframe, PATS & QT Timekeeping, TSS Express, Teradata Query/SQL, Databricks, Python, and R.  
+Seasoned IT professional with over 12 years of experience in the transportation industry, specializing in data analytics, AI/ML solutioning, and project leadership. Proven track record of delivering innovative solutions to complex business problems and leading teams to success. Expertise in Microsoft Power Platform, SAS Viya, Azure, TSS-Mainframe, PATS & QT Timekeeping, TSS Express, Teradata Query/SQL, Databricks, Python, and R.
+
+## Projects  
   
+### Predicting College Baseball Pitchers' Performance Using Machine Learning  
+- Developed a machine learning model to predict the performance of college baseball pitchers based on historical data from 2015 to 2023.  
+- The model achieved a high level of accuracy, with a Mean Squared Error (MSE) of 0.0278, R-squared of 0.9538, and Mean Absolute Error (MAE) of 0.1279.  
+- The model was used to identify key factors that contribute to a successful pitcher, such as strikeout-to-walk ratio and WHIP (Walks plus Hits per Inning Pitched).  
+  
+### Analyzing Divorce Rates in the United States  
+- Conducted an analysis of divorce rates in the United States using data from 2015 to 2023.  
+- Found that divorce rates have been declining in recent years, but that they remain high in certain regions of the country, such as the South and Midwest.  
+- Identified several factors that contribute to divorce, such as financial stress, infidelity, and lack of communication.  
+  
+### Predicting the 2024 Presidential Election Outcome Using Deep Learning  
+- Developed a deep learning model to predict the winner of the 2024 U.S. presidential election based on candidate data and historical election results.  
+- The model achieved an accuracy of 85% on a holdout test set.  
+- Visualized the election predictions and key insights using data visualization techniques.  
+
 ## Experience  
   
 ### Senior IT Business Consultant, Strike Analytics | BNSF Railway | Kansas City Metropolitan Area | March 2022 - Present  
