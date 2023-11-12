@@ -10,7 +10,7 @@ Seasoned IT professional with over 12 years of experience in the transportation 
 - Developed a machine learning model to predict the performance of college baseball pitchers based on historical data from 2015 to 2023.  
 - The model achieved a high level of accuracy, with a Mean Squared Error (MSE) of 0.0278, R-squared of 0.9538, and Mean Absolute Error (MAE) of 0.1279.  
 - The model was used to identify key factors that contribute to a successful pitcher, such as strikeout-to-walk ratio and WHIP (Walks plus Hits per Inning Pitched).
-  [PROJECT LINK](https://strike-analytics-fleet.github.io/college_baseball_project/)  
+  [PROJECT LINK GitHubPages](https://strike-analytics-fleet.github.io/college_baseball_project/)  
   
 ### Analyzing Divorce Rates in the United States  
 - Conducted an analysis of divorce rates in the United States using data from 2015 to 2023.  
@@ -68,7 +68,7 @@ Seasoned IT professional with over 12 years of experience in the transportation 
 
   
 ## Awards and Recognition   
-- 4.0 GPA for Associates of Arts in INformation Technology
+- 4.0 GPA for Associates of Arts in Information Technology
 - 3.98 GPA, Summa Cum Laude for Bachelor of Science in Project Management
 - 3.6 GPA for Masters of Science in Data Science
 - 2013 Employee of the Year at BNSF & multiple BNSF Achievement awards for various projects 
