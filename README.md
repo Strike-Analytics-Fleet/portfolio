@@ -58,19 +58,19 @@ Seasoned IT professional with over 12 years of experience in the transportation 
   
 ## Education  
   
-### Master of Science in Data Science | Bellevue University | Bellevue, Nebraska | May 2022 - November 2023
-- GPA: 3.6
-  
-### Bachelor of Science in Project Management | Bellevue University | Bellevue, Nebraska | August 2020 - March 2022  
+### - Master of Science in Data Science | Bellevue University | Bellevue, Nebraska | May 2022 - November 2023
 
   
-### Associate of Arts in Information Technology | Tarrant County College | Fort Worth, Texas, United States | 2017 - 2020  
+### - Bachelor of Science in Project Management | Bellevue University | Bellevue, Nebraska | August 2020 - March 2022  
+
+  
+### - Associate of Arts in Information Technology | Tarrant County College | Fort Worth, Texas, United States | 2017 - 2020  
 
   
 ## Awards and Recognition   
 - 4.0 GPA for Associates of Arts in INformation Technology
 - 3.98 GPA, Summa Cum Laude for Bachelor of Science in Project Management
-- 3.6 GPA for Masters  
+- 3.6 GPA for Masters of Science in Data Science
 - 2013 Employee of the Year at BNSF & multiple BNSF Achievement awards for various projects 
   
 ## Skills  
@@ -96,13 +96,13 @@ Seasoned IT professional with over 12 years of experience in the transportation 
 - Python, R  
   
 ## Volunteer Experience  
-- Student Volunteer | City of Shawnee, KS | January 2022 - Present  
-- JA -Junior Achievement | Coach, Leader | Greenfield Elem. Students | 2017 & 2018  
-- Technology Awareness Day | 2023  
-- Participant of Microsoft Co-Pilot, OpenAI , Azure Cognitive Services Beta testing/POC Pilot | 2023  
+- Student Volunteer |   City of Shawnee, KS |                                   January 2022 - Present  
+- JA -Junior Achievement   | Coach, Leader   | Greenfield Elementary Students |   2017 & 2018  
+- Technology Awareness Day |                                                      2023  
+- Participant of Microsoft Co-Pilot, OpenAI , Azure Cognitive Services Beta testing/POC Pilot | May 2023 - Ongoing
   
 ## Professional Development  
-- Introduction to Project Management | Twentyeighty Strategy Execution, BNSF Railway TOB  
-- Managing IT Projects | Twentyeighty Strategy Execution, BNSF Railway TOB
+- Introduction to Project Management | Twentyeighty Strategy Execution| BNSF Railway TOB  
+- Managing IT Projects | Twentyeighty Strategy Execution|               BNSF Railway TOB
 - Nicrosoft Azure AI & Power Platform Dev conference | December 2022 |  Las Vegas, NV
 
