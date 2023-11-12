@@ -58,20 +58,20 @@ Seasoned IT professional with over 12 years of experience in the transportation 
   
 ## Education  
   
-### Master of Science in Data Science | Bellevue University | Bellevue, Nebraska | 2022 - September 2023 (Expected)  
+### Master of Science in Data Science | Bellevue University | Bellevue, Nebraska | May 2022 - November 2023
+- GPA: 3.6
   
 ### Bachelor of Science in Project Management | Bellevue University | Bellevue, Nebraska | August 2020 - March 2022  
-- GPA: 3.98  
-- Activities and Societies: Summa Cum Laude  
+
   
 ### Associate of Arts in Information Technology | Tarrant County College | Fort Worth, Texas, United States | 2017 - 2020  
-- GPA: 4.0  
+
   
-## Awards and Recognition  
-- Summa Cum Laude for BS  
-- 4.0 GPA for Associates  
-- 3.5 GPA for Masters  
-- 2013 Employee of the Year at BNSF  
+## Awards and Recognition   
+- 4.0 GPA for Associates of Arts in INformation Technology
+- 3.98 GPA, Summa Cum Laude for Bachelor of Science in Project Management
+- 3.6 GPA for Masters  
+- 2013 Employee of the Year at BNSF & multiple BNSF Achievement awards for various projects 
   
 ## Skills  
 - Data Analytics  
@@ -103,5 +103,6 @@ Seasoned IT professional with over 12 years of experience in the transportation 
   
 ## Professional Development  
 - Introduction to Project Management | Twentyeighty Strategy Execution, BNSF Railway TOB  
-- Managing IT Projects | Twentyeighty Strategy Execution, BNSF Railway TOB  
+- Managing IT Projects | Twentyeighty Strategy Execution, BNSF Railway TOB
+- Nicrosoft Azure AI & Power Platform Dev conference | December 2022 |  Las Vegas, NV
 
